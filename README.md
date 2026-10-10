@@ -36,7 +36,6 @@ When the truck is totalled, you'll see how many robots you destroyed and how lon
 
 ### Requirements
 
-- [Unity Hub](https://unity.com/download)
 - **Unity 6000.0.61f1** with the **WebGL Build Support** module (needed only to build for the browser)
 
 ### 1. Clone the repo
@@ -45,8 +44,6 @@ When the truck is totalled, you'll see how many robots you destroyed and how lon
 git clone https://github.com/Jay-A-Kad/Happy-Punk-WebGL.git
 cd Happy-Punk-WebGL
 ```
-
-You can also click **Code → Download ZIP** on GitHub and extract it.
 
 ### 2. Play in the Unity Editor
 
@@ -65,11 +62,3 @@ You can also click **Code → Download ZIP** on GitHub and extract it.
    python3 -m http.server 8000
    ```
 4. Open <http://localhost:8000> in your browser and play.
-
-> **Tip:** If the build uses Brotli compression and your server doesn't send the right headers, turn on **Decompression Fallback** in *Player Settings → Publishing Settings*, or use **Build And Run** from Unity.
-
-## Tech
-
-- Unity 6 · Universal Render Pipeline · WebGL
-- NavMesh-driven robot AI with object pooling
-- Cinemachine camera, TextMesh Pro UI, and a custom cartoon renderer feature
