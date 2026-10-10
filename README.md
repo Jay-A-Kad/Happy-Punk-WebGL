@@ -10,7 +10,7 @@
 
 Your truck always drives forward and steers toward your mouse cursor. Robots come in endless waves from every direction, and each wave is bigger than the last. Some of them fire rockets at you. If a robot touches you or a rocket hits you, the truck takes damage. The game ends when the truck's health bar runs out or you drive off the edge of the map.
 
-![Gameplay](docs/images/gameplay.png)
+![Gameplay](docs/images/gameplay-cropped.png)
 
 ### Controls
 
